@@ -9,9 +9,9 @@ int servopos = 0;
 
 void setup() {
 
-servol.attach(3);
+servol.attach(2);
 
-servo2.attach(5);
+servo2.attach(3);
 
 }
 
